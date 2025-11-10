@@ -1,1 +1,0 @@
-# Simulaci-n-Modelo-SIR-en-Santa-Cruz
